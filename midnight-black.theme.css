@@ -2,9 +2,9 @@
  * @name midnight black
  * @description A dark, rounded discord theme.
  * @author refact0r, mind
- * @version 1.3
+ * @version 1.4
  * @source https://github.com/LazyMind/discord-theme/blob/main/midnight-black.theme.css
- * @authorId 508863359777505290
+ * @authorId 301989933063733249
 */
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
@@ -75,7 +75,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://raw.githubusercontent.com/LazyMind/discord-theme/refs/heads/main/star-and-crescent.svg'); /* custom icon url */
+	--moon-icon-url: url('https://raw.githubusercontent.com/LazyMind/discord-theme/refs/heads/main/icons/stars.svg'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
